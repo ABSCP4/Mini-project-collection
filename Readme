@@ -1,0 +1,51 @@
+# 🎃 Mini Projects Collection
+
+Welcome to the **Mini Projects Collection** — a community-driven repository full of small, fun, and beginner-friendly coding projects! 🚀  
+
+This repo is perfect for anyone learning to code, exploring new languages, or making their first open-source contributions.
+
+---
+
+## 🧠 About
+
+Each project focuses on a single concept — from simple calculators to random generators.  
+It’s a great way to **learn by building** and practice GitHub collaboration.  
+
+---
+
+## 💡 How to Contribute
+
+1. Fork this repository 🍴  
+2. Create a new folder for your project (e.g., `guess-the-number`, `todo-app`)  
+3. Add:
+   - A `README.md` explaining your project  
+   - Your source code (any language welcome!)  
+4. Open a Pull Request ✅  
+
+---
+
+## 🏷️ Hacktoberfest 2025
+
+This repository is participating in **Hacktoberfest 2025**!  
+Submit 4 pull requests between **October 1–31** to earn your Hacktoberfest badge and swag. 🌱  
+
+Contributions can include:
+- Adding new mini projects  
+- Improving existing ones  
+- Fixing bugs or improving documentation  
+
+Make sure your PRs follow good practices and add value — spam PRs will be marked invalid.  
+
+---
+
+## 🧩 Example Project Ideas
+
+- Binary to Decimal Converter  
+- Random Quote Generator  
+- To-Do List App  
+- Simple Calculator  
+- Weather App using APIs  
+
+---
+
+⭐ **Star this repo** if you like it, and happy coding! 🎉
